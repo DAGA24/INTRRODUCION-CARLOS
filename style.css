@@ -1,0 +1,244 @@
+a{
+    text-decoration: none;
+    color: rgb(114, 8, 8);
+    font-family: 'ALGERIAN', serif;
+}
+.LA a{
+    text-decoration: none;
+    color: rgb(114, 8, 8);
+    font-family: 'ALGERIAN', serif;
+    font-size: 30px ;
+}
+.LDP a{
+    text-decoration: none;
+    color: rgb(211, 25, 25);
+    font-size: 20px ;
+    font-family: 'ALGERIAN', serif;
+}
+h1{
+    font-size: 70px ;
+    color: rgb(160, 23, 23);
+    font-family: 'ALGERIAN', serif;
+}
+h6{
+    font-size: 15px ;
+    color: rgb(160, 23, 23);
+    font-family: 'ALGERIAN', serif;
+}
+h2{
+    color: rgb(160, 23, 23);
+    font-family: 'ALGERIAN', serif;
+}
+h3{
+    color: rgb(160, 23, 23);
+    font-family: 'ALGERIAN', serif;
+    font-size: 30px;
+    
+}
+p{
+    color: rgb(168, 0, 0);
+    font-family: 'ALGERIAN', serif;
+}
+h5{
+    font-size: 20px ;
+    color: rgb(168, 0, 0);
+    font-family: 'ALGERIAN', serif;
+}
+small{
+    color: rgb(168, 0, 0);
+
+}
+.columnas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.cx4{
+    width: 25%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+.cx4 img{
+    width: 100%;
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+}
+.columnas2{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.cx42{
+    width: 25%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+}
+.cx42 img{
+    width: 250px;
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+}  
+.banner{
+    width: 100%;
+    background: #f3d737;
+    clear: both;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    transition: 0.4s;
+}
+.banner:hover{
+    background: rgb(53, 12, 12);
+    transition: 0.4s;
+}
+.banner h3{
+    color: #fff;
+    font-size: 32px;
+}
+.banner a{
+    text-decoration: none;
+    margin-left: 5px;
+    font-weight: bold;
+    color: #fff;
+    border-bottom:2px solid #fff;
+}
+
+.menu:hover {
+    background: rgb(241, 196, 74);
+    transition: 0.4s;
+}
+.menu {
+    font-family: 'Zilla Slab', serif;
+    color: #fff;
+    position: relative;
+    padding: 10px 15px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    font-size: 30px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    margin-left: 660px;
+    margin-right: 660px;
+    border-radius: 30px;
+}
+
+header{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    height: 70px;
+    background-color: rgb(41, 6, 6);
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.nav-link{
+    display: flex;
+}
+
+.logo img{
+    width: 150px;
+    height: 100px;
+    margin-top: 10px;
+}
+header a{
+    font-family: 'ALGERIAN', serif;
+    font-size: 25px;
+    padding-right: 5px;
+    transition: 0,4s;
+}
+header a:hover{
+    color: rgb(255, 217, 29);
+    transition: 0,4s;
+}
+.hs:hover{
+    color: rgb(168, 18, 18);
+}
+.hs{
+    font-size: 40px;
+}
+.contenedocomlunas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.columnasx3{
+    width: 33.333%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+}
+.columnasx3 img{
+    width: 100%;
+}
+.columnasx2{
+    width: 50%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+}
+.columnasx2 img{
+    width: 100%;
+}
+.baner1{
+    width: 100%;
+    background-color: rgb(167, 0, 0);
+    clear: both;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    transition: 0,4s;
+}
+.contenedorcolumnas h3{
+    width: 100%;
+    clear: both;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    transition: 3s;
+    color: rgb(0, 96, 126);
+}
+.contenedorcolumnas h5{
+    width: 100%;
+    clear: both;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    transition: 3s;
+    color: rgb(2, 0, 150);
+}
+.contenedorcolumnas P{
+    color: rgb(168, 0, 0);
+    width: 100%;
+    clear: both;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    transition: 3s;
+}
+body {
+    background: hsl(0, 8%, 69%); /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsl(0, 13%, 72%), #dbd7d1, #dbd7d1); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #c7c2c2, #dbd7d1, #b6b1b1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
